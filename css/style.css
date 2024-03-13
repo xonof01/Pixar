@@ -48,7 +48,6 @@ body {
   line-height: 24px;
   color: #000;
 }
-
 .btn {
   padding: 8px 16px;
   border-radius: 5px;
@@ -91,15 +90,11 @@ h1 {
   display: block;
   margin-right: auto;
 }
-.site-logo-imge {
-}
-.sitenav {
-}
+
 .sitenav-list {
   display: flex;
 }
-.sitenav-item {
-}
+
 .sitenav-link {
   font-style: 15px;
   line-height: 24px;
@@ -127,9 +122,6 @@ h1 {
 /* HEADER END */
 
 /*main*/
-.hero {
-}
-
 .hero-container {
   display: flex;
   justify-content: space-between;
@@ -189,12 +181,6 @@ h1 {
   align-items: center;
   justify-content: center;
 }
-
-.servis {
-}
-
-.servis-main {
-}
 .servis-title {
   display: flex;
   justify-content: center;
@@ -206,13 +192,9 @@ h1 {
   justify-content: center;
   margin-bottom: 16px;
 }
-.servis-image {
-}
 .images-iii {
   box-sizing: border-box;
   display: block;
-}
-.text-ol {
 }
 .images-servis {
   margin-left: 100px;
@@ -223,9 +205,6 @@ h1 {
 .texr-p {
   margin-left: 100px;
 }
-.top-image {
-}
-
 .promo-text {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
@@ -391,10 +370,6 @@ h1 {
   display: block;
   justify-content: center;
 }
-
-.biz-qandak-ishlaymiz {
-}
-
 .talaba-img {
   display: flex;
   margin-left: 234px;
@@ -558,27 +533,16 @@ h1 {
   margin-bottom: 72px;
   margin-top: 56px;
 }
-
-.frame {
-
-}
-
 .image-name {
   display: flex;
   margin-left: 280px;
   margin-top: 112px;
 }
-
 .card_images {
   margin-left: 280px;
   width: 200px
 
 }
-
-.servis-div {
-
-}
-
 .servis-itm {
   display: flex;
   align-items:center;

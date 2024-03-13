@@ -118,7 +118,9 @@ h1 {
 .header-btn {
   font-weight: 700px;
   font-size: 15px;
-}
+  
+  }
+
 /* HEADER END */
 
 /*main*/
@@ -333,6 +335,11 @@ h1 {
   line-height: 31px;
   text-align: center;
 }
+
+.content {
+
+}
+
 .center-btn-list {
   display: flex;
   text-align: center;
